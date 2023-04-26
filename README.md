@@ -7,4 +7,4 @@ LinearSearch(array, key)
     if item == value
       return its index
       
-![image}(C:\Users\student.SITIN\Pictures\Screenshots\ls.png)
+![image](C:\Users\student.SITIN\Pictures\Screenshots\ls.png)
