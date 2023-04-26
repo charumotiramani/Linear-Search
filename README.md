@@ -5,9 +5,9 @@ Linear search is a sequential searching algorithm where we start from one end an
 
 ### Algorithm
 LinearSearch(array, key)  
-  for each item in the array  
-   if item == value  
-   return its index
+   for each item in the array  
+    if item == value  
+      return its index
    
       
 
